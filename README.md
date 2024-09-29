@@ -1,0 +1,1 @@
+Classes can be used to hold onto different objects and methods in order to retrieve them later on in the code easier, and it can keep things very well organized. Here we created two classes, one for an event and one for vehicles, and we implemented methods and objects to alter the variables
